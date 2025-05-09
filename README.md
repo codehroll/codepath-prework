@@ -2,7 +2,7 @@
 prework of codepath ios course
 Submitted by: **Judy**
 
-**IOS101-Prework** is an app that... [TODO] 
+**IOS101-Prework** is an app that change background color after clicking button.
 
 Time spent: **4** hours spent in total
 
@@ -10,14 +10,8 @@ Time spent: **4** hours spent in total
 
 The following **required** functionality is completed:
 
-- [yes] Users are see a screen with three labels and a button
-- [yes] Tapping the button changes the screen color to a random color
- 
-## Video Walkthrough
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+- [ ] Users are see a screen with three labels and a button
+- [ ] Tapping the button changes the screen color to a random color
 
 ## App Brainstorming (Step 4)
 
@@ -30,7 +24,7 @@ I want to build an App for people to meditation. It can record the time people h
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+My Xcode version is the latest, so it's a bit different from the instructions, which has caused some difficulties.
 
 ## License
 
