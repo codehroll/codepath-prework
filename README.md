@@ -13,11 +13,11 @@ The following **required** functionality is completed:
 - [ ] Users are see a screen with three labels and a button
 - [ ] Tapping the button changes the screen color to a random color
 
-## App Brainstorming (Step 4)
+## App Brainstorming
 
-My favorite 3-5 applications and identify 2-3 features that make them your favorite app. It's okay if features repeat on different apps
+My favorite 3-5 applications and 2-3 features.
 1.Instagram(people can post)
-2.Maps(people can locate and find a way)
+2.Maps(people can locate and find multiple ways to a destination)
 3.Podcasts(people can review multiple casts online)
 
 I want to build an App for people to meditation. It can record the time people have spent.
